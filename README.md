@@ -1,1 +1,1 @@
-# exercicios-dia-a-dia
+Exercicios feitos para treinar as mais diversas tecnologias.
